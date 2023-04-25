@@ -1,4 +1,4 @@
 # cpp-music
 using c++ to play music notes
 
-now there is only "never gonna give you up".
+some songs in the repo
